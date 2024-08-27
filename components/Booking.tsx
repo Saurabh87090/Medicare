@@ -5,7 +5,7 @@ const Booking = () => {
     <div className="px-4">
       <div className='bg-[#333333] text-white mt-[60px] md:mt-[120px] w-full md:w-[90%] max-w-[1660px] mx-auto rounded-lg'>
         <h1 className='pt-[40px] md:pt-[80px] px-4 md:px-[80px] lg:px-[160px] text-[30px] md:text-[45px] font-semibold'>
-          Let's consult your health with <br /> our doctor
+          {"Let's consult your health with <br /> our doctor"}
         </h1>
         <p className='px-4 md:px-[80px] lg:px-[160px] pt-6 md:pt-[80px] text-lg md:text-xl'>
           We will provide the best service.

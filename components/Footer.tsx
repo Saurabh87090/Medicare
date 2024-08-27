@@ -29,7 +29,7 @@ const LightFooterSecondary = () => {
               <h1 className="font-medium text-[30px] mx-3 mt-2 ">Medicare</h1>
           </div>
             <p className="text-base leading-relaxed text-gray-600 mt-7">
-            Our hospital tries to answer the challenges in the community's need for quality dental health services but still affordable by a wide audience.
+            {"Our hospital tries to answer the challenges in the community's need for quality dental health services but still affordable by a wide audience."}
             </p>
             <ul className="flex items-center space-x-3 mt-9">
               <li>
@@ -140,7 +140,7 @@ const LightFooterSecondary = () => {
         <p className="font-serif"> Made With ❤️ and ☕ by 🧑‍💻 Developer_Saurabh</p>
         </div>
         <p className="text-sm text-center text-gray-600">
-          © Copyright 2024, All Rights Reserved by Medicare
+          © Copyright 2024 | All Rights Reserved by Medicare
         </p>
       </div>
     </section>
