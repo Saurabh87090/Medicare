@@ -5,8 +5,6 @@ import { motion } from "framer-motion";
 
 const Review = () => {
 
-
-
   return (
     <div className="px-4">
       <div className='ml-0 md:ml-[120px] text-center md:text-left'>
