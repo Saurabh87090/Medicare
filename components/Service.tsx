@@ -11,6 +11,7 @@ const styles = {
 
 const Service = () => {
   return (
+    
     <div>
       <div className="bg-[#d7f1f676] h-full mt-[50px] md:mt-[100px]">
         <div className="flex items-center justify-center flex-col">
