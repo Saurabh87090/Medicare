@@ -5,7 +5,6 @@ import Card from './Card';
 
 const Doctor = () => {
   return (
-    
     <div className='bg-[#d7f1f676] h-full'>
       <div className='flex items-center justify-center flex-col mt-11'>
         <h1 className='text-[25px] font-medium mt-[100px]'>Our Doctors</h1>
