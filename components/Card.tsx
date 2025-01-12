@@ -6,6 +6,7 @@ import { motion } from "framer-motion";
 function Card(props: any) {
   const { name, imgSrc, profession } = props;
   return (
+    
     <div className='p-4 w-full sm:w-1/2 md:w-2/2 lg:w-1/4'>
         <motion.div
               whileHover={{ scale: 1.1 }}
