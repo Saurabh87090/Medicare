@@ -2,7 +2,6 @@ import React from 'react'
 import Link from 'next/link';
 const Booking = () => {
   return (
-    
     <div className="px-4">
       <div className='bg-[#333333] text-white mt-[60px] md:mt-[120px] w-full md:w-[90%] max-w-[1660px] mx-auto rounded-lg'>
         <h1 className='pt-[40px] md:pt-[80px] px-4 md:px-[80px] lg:px-[160px] text-[30px] md:text-[45px] font-semibold'>
