@@ -13,7 +13,6 @@ const About = () => {
             height={200}
             className='w-[400px] h-[300px] md:w-[600px] md:h-[400px] my-8 md:my-[100px] mx-auto md:mx-[140px]'
           />
-          
           <div className='flex flex-col items-center md:items-start text-center md:text-left px-4 md:px-0'>
             <h1 className='text-[24px] md:text-[20px] font-medium text-[#333333]'>About Us</h1>
             <h2 className='text-[36px] md:text-[50px] font-semibold text-[#333333] py-4 md:py-8'>We Help Your Health</h2>
