@@ -3,7 +3,6 @@ import Image from "next/image";
 
 const Main = () => {
   return (
-    
     <div className="relative">
       <Image
         src="Ellipse 4.svg"
