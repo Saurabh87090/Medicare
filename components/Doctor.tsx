@@ -11,7 +11,6 @@ const Doctor = () => {
         <p className='text-[35px] md:text-[40px] font-semibold text-[#333333] pt-9'>visit our professional</p>
         <p className='text-[40px] font-semibold text-[#333333]'>specialists</p>
       </div>
-      
       <div className='flex flex-wrap items-center justify-center'>
         {cardData.map((card, index) => (
           <Card
