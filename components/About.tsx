@@ -3,7 +3,6 @@ import Image from "next/image";
 
 const About = () => {
   return (
-    
     <div>
       <div>
         <div className='flex flex-col lg:flex-row items-center'>
